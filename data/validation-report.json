@@ -1,0 +1,36 @@
+{
+  "readiness_score": 86,
+  "prompt_count": 60,
+  "claim_count": 8,
+  "product_truth_present": true,
+  "faq_schema_present": true,
+  "robots_present": true,
+  "sitemap_present": true,
+  "canonical_present": true,
+  "noindex_detected": false,
+  "issues": [
+    {
+      "severity": "high",
+      "issue": "All claims are demo placeholders.",
+      "recommendation": "Replace with approved Kenvue claim wording, evidence references, qualifiers, warnings, market approvals, and language approvals."
+    },
+    {
+      "severity": "medium",
+      "issue": "Product ingredients and variants require label verification.",
+      "recommendation": "Verify each SKU against official product labels before production."
+    },
+    {
+      "severity": "medium",
+      "issue": "GitHub Pages URL and verification tokens are placeholders.",
+      "recommendation": "Replace placeholders before submitting to Google Search Console, Bing Webmaster Tools, or IndexNow."
+    }
+  ],
+  "next_actions": [
+    "Replace YOUR-GITHUB-USERNAME and YOUR-REPO-NAME across HTML, robots.txt, sitemap.xml, and docs.",
+    "Replace GOOGLE_VERIFICATION_TOKEN_PLACEHOLDER and BING_VERIFICATION_TOKEN_PLACEHOLDER.",
+    "Replace YOUR_INDEXNOW_KEY if IndexNow will be used.",
+    "Run manual structured data validation after publishing.",
+    "Submit sitemap to Google Search Console and Bing Webmaster Tools.",
+    "Track prompt visibility and citation gaps after indexing."
+  ]
+}

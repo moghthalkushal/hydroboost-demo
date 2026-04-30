@@ -1,0 +1,87 @@
+{
+  "ProductFamily": {
+    "product_family_id": "NTG_HYDROBOOST_DEMO",
+    "brand": "Neutrogena",
+    "product_line": "Hydro Boost",
+    "product_name": "Hydro Boost Water Gel Demo",
+    "category": "Facial moisturizer / hydration",
+    "description": "Demo-safe product truth description for a claims-powered AEO/GEO proof of concept. Replace with approved product copy, verified product label details, and approved substantiation before production.",
+    "approval_status": "demo_placeholder"
+  },
+  "Variants": [
+    {
+      "variant_name": "Water Gel",
+      "status": "demo_placeholder",
+      "verification_note": "Verify exact SKU naming, ingredients, size, claims, and label details before production."
+    },
+    {
+      "variant_name": "Gel Cream",
+      "status": "demo_placeholder",
+      "verification_note": "Verify exact SKU naming, ingredients, size, claims, and label details before production."
+    }
+  ],
+  "KeyAttributes": [
+    "hydration-focused facial moisturizer placeholder",
+    "lightweight texture placeholder",
+    "daily skincare routine placeholder",
+    "ingredient and formulation notes require label verification",
+    "no ecommerce offer in this POC"
+  ],
+  "Claims": [
+    "HB_DEMO_CLAIM_001",
+    "HB_DEMO_CLAIM_002",
+    "HB_DEMO_CLAIM_003",
+    "HB_DEMO_CLAIM_004",
+    "HB_DEMO_CLAIM_005",
+    "HB_DEMO_CLAIM_006",
+    "HB_DEMO_CLAIM_007",
+    "HB_DEMO_CLAIM_008"
+  ],
+  "Ingredients": [
+    {
+      "ingredient_name": "Hyaluronic acid",
+      "status": "verify_against_official_product_label_before_production",
+      "note": "Mention only if confirmed for the exact product SKU and market."
+    },
+    {
+      "ingredient_name": "Other ingredients",
+      "status": "placeholder",
+      "note": "Replace with label-accurate ingredient list or approved ingredient summary."
+    }
+  ],
+  "FormulationNotes": [
+    "Demo placeholder for texture, feel, and formulation context.",
+    "Do not add clinical, medical, or superiority claims without approved substantiation."
+  ],
+  "UsageInstructions": [
+    "Apply as directed on the product label.",
+    "Use in a daily skincare routine only when supported by approved usage guidance.",
+    "Check the product label and market-specific instructions before production."
+  ],
+  "Warnings": [
+    "External use only placeholder if applicable; verify against label-specific warnings before production.",
+    "Avoid contact-with-eyes or irritation language unless it matches the approved product label.",
+    "Not medical advice. Do not claim disease treatment, cure, or prevention."
+  ],
+  "Policies": {
+    "ecommerce_offer": "No ecommerce offer in this POC.",
+    "retailer_links": "Optional placeholder. Add only approved retailer links before production.",
+    "review_required": "Legal, regulatory, medical, claims, SEO, and brand review required before production use."
+  },
+  "ContentFragments": {
+    "short_answer": "Demo placeholder: Neutrogena Hydro Boost can be represented with approved hydration, usage, ingredient, and safety information. Final wording must use approved claims and substantiation.",
+    "why_it_works": "Demo placeholder: explain the hydration-focused product role only with approved evidence and final claim language.",
+    "who_it_is_for": "Demo placeholder: skin-type suitability must be reviewed by SKU, market, and approved claim support.",
+    "how_to_use": "Demo placeholder: apply as directed and follow product label instructions.",
+    "safety_notes": "Demo placeholder: follow label warnings and avoid unsupported medical claims.",
+    "faq_answer": "Demo placeholder: answer consumer questions with approved product facts, required qualifiers, and source references."
+  },
+  "Provenance": {
+    "source_url": "TODO official Neutrogena product page",
+    "claims_source": "TODO approved claims system",
+    "substantiation_source": "TODO approved evidence library",
+    "label_source": "TODO verified product label",
+    "last_reviewed": "2026-04-30",
+    "approval_status": "demo_placeholder"
+  }
+}

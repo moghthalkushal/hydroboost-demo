@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Hydration drop favicon</title>
+  <defs>
+    <linearGradient id="drop" x1="12" x2="52" y1="6" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9ee4ff"/>
+      <stop offset="1" stop-color="#0677c9"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#ffffff"/>
+  <path d="M32 7c9.5 12.1 17 22 17 34.3C49 51.1 41.5 58 32 58s-17-6.9-17-16.7C15 29 22.5 19.1 32 7Z" fill="url(#drop)"/>
+  <path d="M25 20c-4.4 6.3-6.6 11.6-6.6 17.4 0 8.5 5.3 14 13.1 14" fill="none" stroke="#ffffff" stroke-linecap="round" stroke-width="4" opacity=".75"/>
+</svg>
